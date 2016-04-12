@@ -1,2 +1,4 @@
 = Home
-:hp-tags majlis nohay matam dua yahussain
+Welcome to www.YaHussa.in
+This website is underconstruction and should be available to the public soon.
+:hp-tags: majlis, nohay, matam, dua, yahussain
